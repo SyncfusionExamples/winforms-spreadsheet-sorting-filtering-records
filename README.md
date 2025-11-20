@@ -4,7 +4,7 @@ This sample illustrates about enabling the Sorting and Filtering feature in [Win
 
 ### Filtering
 
-By default, the `Spreadsheet` does not allow filtering support, so if you want to enable filtering in `Spreadsheet`, set the [AllowFiltering](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.Spreadsheet.SfSpreadsheet.html#Syncfusion_UI_Xaml_Spreadsheet_SfSpreadsheet_AllowFiltering) property to be `True`.
+By default, the `Spreadsheet` does not allow filtering support, so if you want to enable filtering in `Spreadsheet`, set the [AllowFiltering](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Spreadsheet.Spreadsheet.html#Syncfusion_Windows_Forms_Spreadsheet_Spreadsheet_AllowFiltering) property to be `True`.
 
 ``` csharp
 spreadsheet.AllowFiltering = true;
